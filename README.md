@@ -1,4 +1,4 @@
-# Number-Theory-Algorithms-MS-Thesis
+# Number Theory Algorithms
 (Most of the algorithms have theory in the markdown cells, but the code might not be straightforward, and there are bad variable name conventions, as I did not plan to share them initially.)
 
 
